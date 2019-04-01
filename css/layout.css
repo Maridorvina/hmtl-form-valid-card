@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    font-family: 'Sans-serif';
+}
+
+.container{
+    margin: 0 auto;
+    width: 900px;
+}
+
+.pagamento{
+    font-family: sans-serif;
+}
+
+.formulario-cartao{
+    float: left;
+    font-family: sans-serif;
+    height: auto;
+    width: 50%;
+}
+
+.formulario-cartao span{
+    float: left;
+    font-family: sans-serif;
+    margin-top: 10px;
+    width: 46%;
+}
+
+input{
+    float: left;
+    margin-top: 10px;
+    width: 40%;
+}
+
+.container-cartao{width: 50%;}
+
+/* .cartao{}
+
+.botao{} */
+
+header{
+    background-color: #008a4a;
+    float: left;
+    height: 52px;
+    width: 100%;
+}
+
+.card{
+    float: left;
+    margin-right: 30px;
+    width: 58px;
+}
